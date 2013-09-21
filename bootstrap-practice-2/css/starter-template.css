@@ -1,0 +1,27 @@
+div {
+	border: 2px solid blu
+}
+
+.container {
+	border: 2px solid yello
+}
+
+img {
+	width: 100%;
+}
+
+
+body {
+  padding-top: 50px;
+  font-family: Impact;
+}
+h3, h2, h1{
+	font-family: Impact;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+
+}
+
