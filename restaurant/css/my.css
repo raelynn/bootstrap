@@ -1,0 +1,97 @@
+body {
+	color: #666;
+	background-color: #f9f8f6;
+	background-image: url(../img/dark-wood.jpg);
+	background-position: center;
+	font-family: Georgia, Times, serif;
+	line-height: 1.4em;
+	margin: 0px;
+	font-size: 1.3em;
+
+}
+
+h2, h3 {
+	font-family: Georgia, Times, serif;
+	line-height: .85em;
+}
+
+h3 {
+	color: #de6581;
+	font-size: 1.5em;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+.wrapper {
+	width: 940px;
+	margin: 20px auto 20px auto;
+	border: 2px solid #000;
+	background-color: #fff;
+}
+
+header {
+	background-image: url(../img/header.jpg);
+	margin-top: -20px;
+	
+}
+
+.navbar {
+	margin-top: 80px;
+	height: 20px;
+	background-color: grey;
+
+}
+
+a {
+	color: white;
+}
+
+.active a {
+	color: #000;
+}
+
+a:hover {
+	color: #000;
+}
+
+h1 {
+	text-indent: -9999px;
+}
+
+img {
+	float: left;
+	padding-right: 10px;
+}
+
+.text {
+	float: left;
+	padding-left: 10px;
+	width: 50%;
+}
+
+.courses, .sauces {
+	width: 70%;
+	padding: 10px;
+	margin: 15px 5px;
+	position: relative;
+	
+}
+
+.recipes {
+	width: 25%;
+	float: right;
+	padding-right: 10px;
+	position: relative;
+	bottom: 390px;
+	color: #de6581;
+	font-size: 1.3em;
+	line-height: 2.5em;
+}
+
+.recipes a {
+	color: #de6581;
+	text-decoration: none;
+	display: block;
+}
